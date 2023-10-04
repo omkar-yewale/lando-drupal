@@ -14,7 +14,7 @@ function mymodule_menu() {
     'title' => 'Custom Page',
     'description' => 'A custom page for my module.',
     'page callback' => 'mymodule_custom_page',
-    'access callback' => TRUE,
+'access callback' => TRUE,
   ];
   return $items;
 }

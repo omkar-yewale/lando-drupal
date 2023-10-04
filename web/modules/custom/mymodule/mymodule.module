@@ -10,7 +10,6 @@
  */
 function mymodule_menu() {
   $items = [];
-  
   $items['mymodule/custom-page'] = [
     'title' => 'Custom Page',
     'description' => 'A custom page for my module.',

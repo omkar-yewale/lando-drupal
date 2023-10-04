@@ -56,7 +56,7 @@ function mymodule_custom_page() {
 
   return [
 
-    '#markup => 'Hello, world!',
+    '#markup' => 'Hello, world!',
 
   ];
 
